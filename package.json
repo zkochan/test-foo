@@ -1,6 +1,6 @@
 {
   "name": "test-foo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A test package for foso cdn.",
   "main": "index.js",
   "style": "styles/index.css",
